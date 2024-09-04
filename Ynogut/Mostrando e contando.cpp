@@ -20,7 +20,7 @@ void bubblesort(int vetor[], int tam){
 	}
 	cout<<cont<<endl;
 	for(int i=0; i<tam; i++){//declarando contador dentro do 'for'
-		cout<<vet[i]<<" ";
+		cout<<vetor[i]<<" ";
 	}
 }
 int main(){
